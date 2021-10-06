@@ -1,0 +1,6 @@
+/Users/administrator/Projects/Practica05/Practica05/bin/Debug/Practica05.exe
+/Users/administrator/Projects/Practica05/Practica05/bin/Debug/Practica05.pdb
+/Users/administrator/Projects/Practica05/Practica05/obj/Debug/Practica05.csproj.AssemblyReference.cache
+/Users/administrator/Projects/Practica05/Practica05/obj/Debug/Practica05.csproj.CoreCompileInputs.cache
+/Users/administrator/Projects/Practica05/Practica05/obj/Debug/Practica05.exe
+/Users/administrator/Projects/Practica05/Practica05/obj/Debug/Practica05.pdb
